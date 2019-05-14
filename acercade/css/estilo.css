@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    background: blue;
+}
+
+.container-all{
+    width: 95%;
+    height: 1500px;
+    max-width: 1300px;
+    margin: auto;
+    padding: 60px;
+    background: grey;
+    margin-top: 30px;
+    border: 6px solid black ;
+}
+
+.title{
+    font-size: 45px;
+    margin-bottom: 50px;
+}
+
+.sub-title{
+    font-size: 30px;
+     font-weight: 400;
+}
+
+.container-all img{
+    width: 500px;
+    float: right;
+    margin-left: 15px;
+    margin-bottom: 15px;
+}
+
+h1{ /*Definimos que los elementos h1 (tamaño de texto) sean de tipo de letra Verdana*/
+    color:skyblue;
+    padding:8px;
+}
